@@ -1,4 +1,4 @@
-# Olá, meu nome é Mateus Dantas Medeiros!
+# Olá, meu nome é Mateus Dantas!
 
 **Estudante de Análise e Desenvolvimento de Sistemas** na UNIASSELVI, com foco em **Desenvolvimento Backend**. Venho de uma trajetória em suporte técnico de informática e hoje busco meu primeiro estágio na área.
 
