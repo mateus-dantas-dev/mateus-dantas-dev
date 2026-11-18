@@ -1,6 +1,6 @@
-<img align="right" src="logo%20md.png" alt="Logo Mateus Dantas" width="260" />
-
 # Olá, meu nome é Mateus Dantas!
+
+<img align="right" src="logo%20md.png" alt="Logo Mateus Dantas" width="260" />
 
 **Estudante de Análise e Desenvolvimento de Sistemas** na UNIASSELVI, com foco em **Desenvolvimento Backend**. Venho de uma trajetória em suporte técnico de informática e hoje busco meu primeiro estágio na área.
 
