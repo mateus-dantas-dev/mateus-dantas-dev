@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="logo-md.png" alt="Logo Mateus Dantas" width="150" />
-</p>
+<img align="right" src="logo-md.png" alt="Logo Mateus Dantas" width="260" />
 
 # Olá, meu nome é Mateus Dantas!
 
@@ -12,10 +10,10 @@ Conceitos: **Programação Orientada a Objetos**, **Estruturas de Dados**, **Alg
 
 Outros: Excel Avançado, Power Pivot, Dashboards, Suporte Técnico.
 
----
+<br>
 
-### Contatos:
+**Contatos:**
 
 <a href="https://www.linkedin.com/in/mateus-dantas-medeiros" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-5B3F8C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
